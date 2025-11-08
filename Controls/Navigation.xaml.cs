@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace BAT_Man
+namespace BAT_Man.Controls
 {
     /// <summary>
     /// Interaktionslogik für Navigation.xaml

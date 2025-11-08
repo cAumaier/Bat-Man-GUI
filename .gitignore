@@ -1,0 +1,18 @@
+# Visual Studio / Project Files to ignore
+
+# VS 2017+ files
+.vs/
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+*.exe
+
+# User-specific files
+*.suo
+*.user
+
+# NuGet
+/packages/
