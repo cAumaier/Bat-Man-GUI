@@ -5,19 +5,12 @@
         <Setter Property="FontSize" Value="14"/>
         <Setter Property="Padding" Value="10,5"/>
         <Setter Property="Margin" Value="5"/>
-        <Setter Property="Background" Value="#FF7A9D9B"/>
-        <Setter Property="Foreground" Value="Black"/>
+    </Style>
 
-        <Setter Property="Template">
-            <Setter.Value>
-                <ControlTemplate TargetType="Button">
-                    <Border Background="{TemplateBinding Background}" CornerRadius="5">
-                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
-                                      VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
-                    </Border>
-                </ControlTemplate>
-            </Setter.Value>
-        </Setter>
+    <Style TargetType="TextBox">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="Padding" Value="8,4"/>
+        <Setter Property="Margin" Value="5"/>
     </Style>
 
 </ResourceDictionary>

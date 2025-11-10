@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\pages\\betriebadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:pages\\betriebadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\pages\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:pages\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\styles\\generalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:styles\\generalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -34,15 +54,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BetriebAdd.xaml",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Pages\\BetriebAdd.xaml",
+              "RelativeDocumentMoniker": "Pages\\BetriebAdd.xaml",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Pages\\BetriebAdd.xaml",
+              "RelativeToolTip": "Pages\\BetriebAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T11:42:10.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoginPage.xaml.cs",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml.cs",
+              "RelativeToolTip": "LoginPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:27:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:44:56.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LoginPage.xaml",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml",
+              "RelativeToolTip": "LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T10:34:43.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:27:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Landingpage.xaml",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Pages\\Landingpage.xaml",
+              "RelativeDocumentMoniker": "Pages\\Landingpage.xaml",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Pages\\Landingpage.xaml",
+              "RelativeToolTip": "Pages\\Landingpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T10:22:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T10:13:18.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Colors.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Styles\\Colors.xaml",
               "RelativeDocumentMoniker": "Styles\\Colors.xaml",
@@ -54,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Navigation.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Controls\\Navigation.xaml",
               "RelativeDocumentMoniker": "Controls\\Navigation.xaml",
@@ -66,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -78,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "GeneralStyles.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Styles\\GeneralStyles.xaml",
               "RelativeDocumentMoniker": "Styles\\GeneralStyles.xaml",
@@ -87,30 +190,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-07T09:28:50.599Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-07T09:24:56.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-06T11:40:53.042Z"
             }
           ]
         }

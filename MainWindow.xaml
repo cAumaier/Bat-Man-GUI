@@ -5,14 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:ctrl="clr-namespace:BAT_Man.Controls"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid Margin="-10,0,0,0">
+        Title="BAT-Man" Height="450" Width="800"
+        ResizeMode="CanResize"
+        MinHeight="450"
+        MinWidth="800">
+    <Grid>
         
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="180"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-
+        
         <ctrl:Navigation Grid.Column="0"/>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Grid.Column="1"/>
     </Grid>
 </Window>

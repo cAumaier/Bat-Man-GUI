@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="180">
 
-    <Grid Grid.Column="0" Background="#bcbcbc">
+    <Grid Grid.Column="0">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -22,7 +22,7 @@
         </StackPanel>
 
         <StackPanel Grid.Row="2" Margin="5,10">
-            <Button Content="Darkmode" Width="150" Height="30" Margin="5"/>
+            <Button Content="Darkmode On/Off" Width="150" Height="30" Margin="5"/>
             <Button Content="Logout" Width="150" Height="30" Margin="5"/>
         </StackPanel>
     </Grid>

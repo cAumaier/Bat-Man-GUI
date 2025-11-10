@@ -9,6 +9,13 @@ namespace BAT_Man
     /// </summary>
     public partial class App : Application
     {
+        //Loginseite zum Start aufrufen
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+            LoginPage loginPage = new LoginPage();
+            bool? result = loginPage.ShowDialog();
+        }
     }
 
 }

@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -8,26 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using BAT_Man.Pages;
 
-namespace BAT_Man
+namespace BAT_Man.Pages
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaktionslogik für Landingpage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Landingpage : Page
     {
-        public MainWindow()
+        public Landingpage()
         {
             InitializeComponent();
-            MainFrame.Navigate(new Landingpage());
         }
-
-        private void Navigation_Loaded(object sender, RoutedEventArgs e)
-        {
-
-        }
-       
     }
-    
 }

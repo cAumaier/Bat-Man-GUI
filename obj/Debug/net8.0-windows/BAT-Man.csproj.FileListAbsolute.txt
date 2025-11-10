@@ -26,3 +26,7 @@ C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\refint\BAT-Man.dl
 C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\BAT-Man.pdb
 C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\BAT-Man.genruntimeconfig.cache
 C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\ref\BAT-Man.dll
+C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\Pages\Landingpage.g.cs
+C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\Pages\Landingpage.baml
+C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\LoginPage.g.cs
+C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\LoginPage.baml
