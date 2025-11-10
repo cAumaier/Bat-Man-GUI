@@ -30,3 +30,5 @@ C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\Pages\Landingpage
 C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\Pages\Landingpage.baml
 C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\LoginPage.g.cs
 C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\LoginPage.baml
+C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\Pages\BetriebAdd.g.cs
+C:\Schulzeug\Projekt\Programm\BAT-Man\obj\Debug\net8.0-windows\Pages\BetriebAdd.baml

@@ -16,14 +16,14 @@
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="0" Margin="5,10">
-            <Button Content="Betrieb eingeben" Width="150" Height="30" Margin="5"/>
-            <Button Content="Betrieb ansehen" Width="150" Height="30" Margin="5"/>
-            <Button Content="Übersicht" Width="150" Height="30" Margin="5"/>
+            <Button x:Name="btn_nav_betriebEingeben" Content="Betrieb eingeben" Width="150" Height="30" Margin="5" Click="btn_nav_betriebEingeben_Click"/>
+            <Button x:Name="btn_nav_betriebAnsehen" Content="Betrieb ansehen" Width="150" Height="30" Margin="5"/>
+            <Button x:Name="btn_nav_uebersicht" Content="Übersicht" Width="150" Height="30" Margin="5"/>
         </StackPanel>
 
         <StackPanel Grid.Row="2" Margin="5,10">
-            <Button Content="Darkmode On/Off" Width="150" Height="30" Margin="5"/>
-            <Button Content="Logout" Width="150" Height="30" Margin="5"/>
+            <Button x:Name="btn_nav_darkmode" Content="Darkmode On/Off" Width="150" Height="30" Margin="5"/>
+            <Button x:Name="btn_nav_logout" Content="Logout" Width="150" Height="30" Margin="5"/>
         </StackPanel>
     </Grid>
 </UserControl>

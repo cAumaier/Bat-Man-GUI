@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\controls\\navigation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:controls\\navigation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\pages\\betriebadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:pages\\betriebadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\styles\\generalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:styles\\generalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,32 +39,8 @@
       "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\pages\\betriebadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:pages\\betriebadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\pages\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:pages\\landingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:controls\\navigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\styles\\generalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|solutionrelative:styles\\generalstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA7C6A9C-8A56-4C3B-A527-CDC9C672D549}|BAT-Man.csproj|c:\\schulzeug\\projekt\\programm\\bat-man\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -54,11 +58,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Navigation.xaml.cs",
+              "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Controls\\Navigation.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\Navigation.xaml.cs",
+              "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Controls\\Navigation.xaml.cs",
+              "RelativeToolTip": "Controls\\Navigation.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:46:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BetriebAdd.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Pages\\BetriebAdd.xaml",
               "RelativeDocumentMoniker": "Pages\\BetriebAdd.xaml",
@@ -70,20 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "LoginPage.xaml.cs",
               "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml.cs",
               "RelativeToolTip": "LoginPage.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAApwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T11:27:13.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -96,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\LoginPage.xaml",
               "RelativeDocumentMoniker": "LoginPage.xaml",
@@ -108,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T10:27:44.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Landingpage.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Pages\\Landingpage.xaml",
               "RelativeDocumentMoniker": "Pages\\Landingpage.xaml",
@@ -133,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -145,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Colors.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Styles\\Colors.xaml",
               "RelativeDocumentMoniker": "Styles\\Colors.xaml",
@@ -157,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Navigation.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Controls\\Navigation.xaml",
               "RelativeDocumentMoniker": "Controls\\Navigation.xaml",
@@ -169,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -181,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "GeneralStyles.xaml",
               "DocumentMoniker": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\Styles\\GeneralStyles.xaml",
               "RelativeDocumentMoniker": "Styles\\GeneralStyles.xaml",

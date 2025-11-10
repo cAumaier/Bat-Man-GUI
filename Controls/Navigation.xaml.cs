@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using BAT_Man.Pages;
 
 namespace BAT_Man.Controls
 {
@@ -22,7 +23,16 @@ namespace BAT_Man.Controls
     {
         public Navigation()
         {
-            InitializeComponent();
+            InitializeComponent();           
+        }
+
+        private void btn_nav_betriebEingeben_Click(object sender, RoutedEventArgs e)
+        {
+            var mainWindow = Window.GetWindow(this) as MainWindow;
+            if (mainWindow != null && mainWindow.MainFrame != null)
+            {
+                mainWindow.MainFrame.Navigate(new BetriebAdd());
+            }
         }
     }
 }
