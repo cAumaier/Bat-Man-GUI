@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\BAT-Man.csproj",
+      "projectUniqueName": "D:\\Programmierzeug\\Projekt\\BAT-Man.csproj",
       "projectName": "BAT-Man",
-      "projectPath": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\BAT-Man.csproj",
+      "projectPath": "D:\\Programmierzeug\\Projekt\\BAT-Man.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Schulzeug\\Projekt\\Programm\\BAT-Man\\obj\\",
+      "outputPath": "D:\\Programmierzeug\\Projekt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

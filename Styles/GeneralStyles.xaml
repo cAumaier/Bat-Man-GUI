@@ -2,15 +2,90 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <Style TargetType="Button">
-        <Setter Property="FontSize" Value="14"/>
-        <Setter Property="Padding" Value="10,5"/>
-        <Setter Property="Margin" Value="5"/>
+        <Setter Property="FontSize" 
+                Value="12"/>
+        
+        <Setter Property="Padding" 
+                Value="10,5"/>
+        
+        <Setter Property="Margin" 
+                Value="5"/>
+        
+        <Setter Property="BorderThickness" 
+                Value="1.5"/> 
+        
+        <Setter Property="Background" 
+                Value="{StaticResource ButtonBrush}"/>
+        
+        <Setter Property="Foreground" 
+                Value="{StaticResource PrimaryTextColor}"/>
+        
+        <Setter Property="BorderBrush" 
+                Value="{StaticResource ButtonBrush}"/>
+        
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+
+                    <Border x:Name="border"
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}"                        
+                        CornerRadius="5">
+
+                        <Border.Effect>
+                            <DropShadowEffect ShadowDepth="0"           
+                                          Color="#4AC0E8"            
+                                          BlurRadius="7"             
+                                          Opacity="0.8"/>
+                        </Border.Effect>
+
+                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                      VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                      Content="{TemplateBinding Content}"
+                                      Margin="{TemplateBinding Padding}"/>
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" 
+                                 Value="True">
+                            <Setter TargetName="border" Property="Background" 
+                                    Value="{StaticResource AccentBrush1}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
     </Style>
 
     <Style TargetType="TextBox">
-        <Setter Property="FontSize" Value="14"/>
-        <Setter Property="Padding" Value="8,4"/>
-        <Setter Property="Margin" Value="5"/>
+        <Setter Property="FontSize" 
+                Value="14"/>
+        
+        <Setter Property="Padding" 
+                Value="8,4"/>
+        
+        <Setter Property="Margin" 
+                Value="5"/>        
+
+        <Setter Property="Background" 
+            Value="{StaticResource txtbBackground}"/>
+
+        <Setter Property="BorderBrush" 
+            Value="{StaticResource ButtonBrush}"/>
+
+        <Setter Property="BorderThickness" 
+            Value="1"/>
+
+        <Setter Property="Foreground" 
+            Value="Black"/>
+
+        <Setter Property="Padding" 
+            Value="5"/>
+
+        <Setter Property="Margin" 
+            Value="5"/>
     </Style>
 
 </ResourceDictionary>

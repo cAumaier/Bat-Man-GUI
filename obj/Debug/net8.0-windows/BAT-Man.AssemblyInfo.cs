@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BAT-Man")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5430483370b3d638158a3278869ee53c78a9260e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1f18fcb68d9bf91e8dc6c07cbe89306952b788")]
 [assembly: System.Reflection.AssemblyProductAttribute("BAT-Man")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BAT-Man")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

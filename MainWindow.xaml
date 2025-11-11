@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:ctrl="clr-namespace:BAT_Man.Controls"
         mc:Ignorable="d"
+        Background="{StaticResource PrimaryBackgroundColor}"
         Title="BAT-Man" Height="450" Width="800"
         ResizeMode="CanResize"
         MinHeight="450"

@@ -11,7 +11,13 @@
     <Compile Update="Pages\BetriebAdd.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\BetriebView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\Landingpage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\OverallView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
